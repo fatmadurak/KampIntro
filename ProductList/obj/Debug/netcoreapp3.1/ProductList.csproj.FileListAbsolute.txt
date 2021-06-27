@@ -1,0 +1,13 @@
+C:\Users\Usame\source\repos\KampIntro\ProductList\obj\Debug\netcoreapp3.1\ProductList.csproj.AssemblyReference.cache
+C:\Users\Usame\source\repos\KampIntro\ProductList\obj\Debug\netcoreapp3.1\ProductList.AssemblyInfoInputs.cache
+C:\Users\Usame\source\repos\KampIntro\ProductList\obj\Debug\netcoreapp3.1\ProductList.AssemblyInfo.cs
+C:\Users\Usame\source\repos\KampIntro\ProductList\obj\Debug\netcoreapp3.1\ProductList.csproj.CoreCompileInputs.cache
+C:\Users\Usame\source\repos\KampIntro\ProductList\bin\Debug\netcoreapp3.1\ProductList.exe
+C:\Users\Usame\source\repos\KampIntro\ProductList\bin\Debug\netcoreapp3.1\ProductList.deps.json
+C:\Users\Usame\source\repos\KampIntro\ProductList\bin\Debug\netcoreapp3.1\ProductList.runtimeconfig.json
+C:\Users\Usame\source\repos\KampIntro\ProductList\bin\Debug\netcoreapp3.1\ProductList.runtimeconfig.dev.json
+C:\Users\Usame\source\repos\KampIntro\ProductList\bin\Debug\netcoreapp3.1\ProductList.dll
+C:\Users\Usame\source\repos\KampIntro\ProductList\bin\Debug\netcoreapp3.1\ProductList.pdb
+C:\Users\Usame\source\repos\KampIntro\ProductList\obj\Debug\netcoreapp3.1\ProductList.dll
+C:\Users\Usame\source\repos\KampIntro\ProductList\obj\Debug\netcoreapp3.1\ProductList.pdb
+C:\Users\Usame\source\repos\KampIntro\ProductList\obj\Debug\netcoreapp3.1\ProductList.genruntimeconfig.cache

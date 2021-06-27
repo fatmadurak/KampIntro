@@ -1,0 +1,13 @@
+C:\Users\Usame\source\repos\KampIntro\MyDictonary\bin\Debug\netcoreapp3.1\GenericMyDictonary.exe
+C:\Users\Usame\source\repos\KampIntro\MyDictonary\bin\Debug\netcoreapp3.1\GenericMyDictonary.deps.json
+C:\Users\Usame\source\repos\KampIntro\MyDictonary\bin\Debug\netcoreapp3.1\GenericMyDictonary.runtimeconfig.json
+C:\Users\Usame\source\repos\KampIntro\MyDictonary\bin\Debug\netcoreapp3.1\GenericMyDictonary.runtimeconfig.dev.json
+C:\Users\Usame\source\repos\KampIntro\MyDictonary\bin\Debug\netcoreapp3.1\GenericMyDictonary.dll
+C:\Users\Usame\source\repos\KampIntro\MyDictonary\bin\Debug\netcoreapp3.1\GenericMyDictonary.pdb
+C:\Users\Usame\source\repos\KampIntro\MyDictonary\obj\Debug\netcoreapp3.1\GenericMyDictonary.csproj.AssemblyReference.cache
+C:\Users\Usame\source\repos\KampIntro\MyDictonary\obj\Debug\netcoreapp3.1\GenericMyDictonary.AssemblyInfoInputs.cache
+C:\Users\Usame\source\repos\KampIntro\MyDictonary\obj\Debug\netcoreapp3.1\GenericMyDictonary.AssemblyInfo.cs
+C:\Users\Usame\source\repos\KampIntro\MyDictonary\obj\Debug\netcoreapp3.1\GenericMyDictonary.csproj.CoreCompileInputs.cache
+C:\Users\Usame\source\repos\KampIntro\MyDictonary\obj\Debug\netcoreapp3.1\GenericMyDictonary.dll
+C:\Users\Usame\source\repos\KampIntro\MyDictonary\obj\Debug\netcoreapp3.1\GenericMyDictonary.pdb
+C:\Users\Usame\source\repos\KampIntro\MyDictonary\obj\Debug\netcoreapp3.1\GenericMyDictonary.genruntimeconfig.cache
