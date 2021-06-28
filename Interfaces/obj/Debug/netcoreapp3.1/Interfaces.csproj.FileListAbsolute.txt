@@ -1,0 +1,12 @@
+C:\Users\Usame\source\repos\KampIntro\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.exe
+C:\Users\Usame\source\repos\KampIntro\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.deps.json
+C:\Users\Usame\source\repos\KampIntro\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.runtimeconfig.json
+C:\Users\Usame\source\repos\KampIntro\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.runtimeconfig.dev.json
+C:\Users\Usame\source\repos\KampIntro\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.dll
+C:\Users\Usame\source\repos\KampIntro\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.pdb
+C:\Users\Usame\source\repos\KampIntro\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.AssemblyInfoInputs.cache
+C:\Users\Usame\source\repos\KampIntro\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.AssemblyInfo.cs
+C:\Users\Usame\source\repos\KampIntro\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Usame\source\repos\KampIntro\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.dll
+C:\Users\Usame\source\repos\KampIntro\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.pdb
+C:\Users\Usame\source\repos\KampIntro\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.genruntimeconfig.cache
