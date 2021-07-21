@@ -1,0 +1,12 @@
+C:\Users\Usame\source\repos\KampIntro\Delegates\bin\Debug\netcoreapp3.1\Delegates.exe
+C:\Users\Usame\source\repos\KampIntro\Delegates\bin\Debug\netcoreapp3.1\Delegates.deps.json
+C:\Users\Usame\source\repos\KampIntro\Delegates\bin\Debug\netcoreapp3.1\Delegates.runtimeconfig.json
+C:\Users\Usame\source\repos\KampIntro\Delegates\bin\Debug\netcoreapp3.1\Delegates.runtimeconfig.dev.json
+C:\Users\Usame\source\repos\KampIntro\Delegates\bin\Debug\netcoreapp3.1\Delegates.dll
+C:\Users\Usame\source\repos\KampIntro\Delegates\bin\Debug\netcoreapp3.1\Delegates.pdb
+C:\Users\Usame\source\repos\KampIntro\Delegates\obj\Debug\netcoreapp3.1\Delegates.AssemblyInfoInputs.cache
+C:\Users\Usame\source\repos\KampIntro\Delegates\obj\Debug\netcoreapp3.1\Delegates.AssemblyInfo.cs
+C:\Users\Usame\source\repos\KampIntro\Delegates\obj\Debug\netcoreapp3.1\Delegates.csproj.CoreCompileInputs.cache
+C:\Users\Usame\source\repos\KampIntro\Delegates\obj\Debug\netcoreapp3.1\Delegates.dll
+C:\Users\Usame\source\repos\KampIntro\Delegates\obj\Debug\netcoreapp3.1\Delegates.pdb
+C:\Users\Usame\source\repos\KampIntro\Delegates\obj\Debug\netcoreapp3.1\Delegates.genruntimeconfig.cache
